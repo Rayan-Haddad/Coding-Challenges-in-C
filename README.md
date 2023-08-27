@@ -1,2 +1,2 @@
-# Simple-C-code-1
-Here is some very simple c codes for starters!
+# Simple-C-code-files
+Here are some very simple C codes for starters!
